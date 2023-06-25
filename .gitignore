@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/input
+/transcripts
+
+
+*.env
+!*.env.template

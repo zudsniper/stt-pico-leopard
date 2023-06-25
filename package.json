@@ -1,0 +1,19 @@
+{
+  "name": "starbucks2",
+  "version": "1.0.0",
+  "description": "picovoice cheetah powered script to interpret audio files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit(0);"
+  },
+  "author": "zudsniper",
+  "license": "ISC",
+  "dependencies": {
+    "@picovoice/leopard-node": "^1.2.0",
+    "@picovoice/leopard-web": "^1.2.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "winston": "^3.9.0"
+  }
+}
